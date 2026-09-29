@@ -19,6 +19,12 @@ no settings to learn.
 > The images above are rendered by the app's own SwiftUI view (`Nook --render-previews`),
 > not mock-ups.
 
+### Before and after
+
+| macOS default (illustration) | Nook |
+| --- | --- |
+| <img src="docs/images/compare-before.png" alt="The standard macOS volume pop-up in the top-right corner"> | <img src="docs/images/compare-after.png" alt="Nook's indicator directly below the notch"> |
+
 ---
 
 ## Highlights
